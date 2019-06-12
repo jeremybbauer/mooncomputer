@@ -9,17 +9,17 @@ template: post
 ---
 ![](/images/4p0cryph4-com-rtf/1*8mdw2hc1vh-tY4Uy5FqWNA.png)
 
-<iframe src="https://play.ht/embed/?article_url=https://medium.com/_p/4p0cryph4-com-rtf-8f08fba227b6" width="700" height="185" frameborder="0" scrolling="no"></iframe>
 
-Y*ou check your spam folder. There’s mostly politics and penises. Some expired Groupons. One appears to be a newsletter you never signed up for. The sender field reads: “arch-dark@4p0cryph4.com.” The subject line:*
 
-*“Ex nihilo, non omnia. De omnibus daemonibus!”*
+Y_ou check your spam folder. There’s mostly politics and penises. Some expired Groupons. One appears to be a newsletter you never signed up for. The sender field reads: “arch-dark@4p0cryph4.com.” The subject line:_
 
-*Normally, you’d ignore it, but you’ve been feeling* ***more*** *lately. As in a doubling of yourself, an increase in hidden energy. You’ve been feeling as though you’re watching an invisible storm from afar.*
+_“Ex nihilo, non omnia. De omnibus daemonibus!”_
 
-*You click the subject line and your browser navigates to “http://waw.4p0cryph4.com/Beginners\_Guide.” You look around to see who’s in your seven-person cubicle. But it’s Pizza Friday and they’re all down the street, so if it’s porn, it will be in the system but you’ll be able to close it before anyone sees engorgement.*
+_Normally, you’d ignore it, but you’ve been feeling_ more _lately. As in a doubling of yourself, an increase in hidden energy. You’ve been feeling as though you’re watching an invisible storm from afar._
 
-* * *
+_You click the subject line and your browser navigates to “http://waw.4p0cryph4.com/Beginners_Guide.” You look around to see who’s in your seven-person cubicle. But it’s Pizza Friday and they’re all down the street, so if it’s porn, it will be in the system but you’ll be able to close it before anyone sees engorgement._
+
+- - -
 
 In life, there are all sorts of unseen enemies. Sometimes they’re cancer. Sometimes they’re demons. The worst are the cancer demons. They smoke-em-up-Johnny for you, lump you crazy, hump you up weirder than meatloaf.
 
@@ -31,15 +31,15 @@ The great thing about turning demon is demons have no rules. You can swaddle you
 
 I’d suggest the following forms: [**Photonic**](#ad90), [**The Antler**](#2965), [**Galactic**](#54a7), or [**The Dank**](#12fb). Those are usually the best bang for your buck. Find them in our apocrypha wiki.
 
-* * *
+- - -
 
-*The page looks jank, full of rough pixels. It looks like it was designed around the time you graduated high school. The page’s creator is probably a forty- year-old surrounded by wood paneling with safety glasses and gray thinning hair living as sad as you, but deeper, due to their age and an unescapable 70’s color palette.*
+_The page looks jank, full of rough pixels. It looks like it was designed around the time you graduated high school. The page’s creator is probably a forty- year-old surrounded by wood paneling with safety glasses and gray thinning hair living as sad as you, but deeper, due to their age and an unescapable 70’s color palette._
 
-*You wonder why you just had that thought. Where the strange judgment came from. Something has you off. You’re on edge, uncomfortable.*
+_You wonder why you just had that thought. Where the strange judgment came from. Something has you off. You’re on edge, uncomfortable._
 
-*You click the blue, jagged-font hyperlink, the underline running below all four demon forms. You arrive at some wiki page with no timestamp and references you can’t make sense of. You notice that a few pixels scattered over the screen appear to vibrate. Almost phasing into your world.*
+_You click the blue, jagged-font hyperlink, the underline running below all four demon forms. You arrive at some wiki page with no timestamp and references you can’t make sense of. You notice that a few pixels scattered over the screen appear to vibrate. Almost phasing into your world._
 
-* * *
+- - -
 
 ![](/images/4p0cryph4-com-rtf/1*BPMe6H7Uo3s-JCsndwUnHA.png)
 
@@ -83,13 +83,13 @@ Understanding this unlocks an energy closest to your potential.
 
 The Dank is a choice that will never leave you. Accepting this form releases a cold energy from which you cannot warm, and from which you will not hanker to. It asks the most out of these four, for darkness is where people find themselves, either in solace or psychosis.
 
-* * *
+- - -
 
-*The page wavers from light to dark. It does so over such a long span of time that it takes a few minutes to notice. At the bottom of the page, a link blinks flanked by a trio of exclamation points on each side.*
+_The page wavers from light to dark. It does so over such a long span of time that it takes a few minutes to notice. At the bottom of the page, a link blinks flanked by a trio of exclamation points on each side._
 
-*Your head has started to feel cold. Sweat begins to bubble lightly on your back as your breathing labors. You realize you are no longer in control of your feet or hands when your cursor hovers on the blinking blue and clicks without your feeling any of it.*
+_Your head has started to feel cold. Sweat begins to bubble lightly on your back as your breathing labors. You realize you are no longer in control of your feet or hands when your cursor hovers on the blinking blue and clicks without your feeling any of it._
 
-* * *
+- - -
 
 #### !!!DISCLAIMER!!!
 
@@ -107,10 +107,10 @@ Cancer is terror, the way it hits slow and fast all at the same time. Look for a
 
 Look for us in the field. Look for stray glint, bug-mutts, space gone local, or arch-dark. Consult our forums and the rest of the wiki.
 
-This has been your *Beginning Guide to Demon*.
+This has been your _Beginning Guide to Demon_.
 
 ![](/images/4p0cryph4-com-rtf/1*nnNqkgrGkk4D1icdMDY4EA.png)
 
-* * *
+- - -
 
-*All images courtesy of* [*Eliot Gardepe*](https://egardepe.itch.io/hypercard)*.*
+_All images courtesy of_ [_Eliot Gardepe_](https://egardepe.itch.io/hypercard)_._
