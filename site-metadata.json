@@ -1,18 +1,18 @@
 {
   "title": "Stackbit Ampersand Theme",
   "layout_style": "grid",
-  "palette": "green",
+  "palette": "black",
   "header": {
     "title": "Moon Computer",
     "logo_img": "/images/moon-computer-pixel-grass-6.png",
     "has_nav": true
   },
   "footer": {
-    "content": "&copy; Stackbit-Ampersand. All rights reserved.",
+    "content": "&copy; Moon Computer. All rights reserved.",
     "links": [
       {
-        "text": "Made with Stackbit",
-        "url": "https://www.stackbit.com",
+        "text": " ✨ Created my Jeremy Bauer.",
+        "url": "https://jeremybauer.carrd.co/",
         "new_window": true
       }
     ],
