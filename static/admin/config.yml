@@ -3,6 +3,7 @@ backend:
   branch: master
 media_folder: static/images
 public_folder: /images
+publish_mode: editorial_workflow
 collections:
   - name: config
     label: Global Site Config
@@ -309,7 +310,7 @@ collections:
       value: page
     create: true
     extension: md
-    slug: '{{slug}}'
+    slug: "{{slug}}"
     fields:
       - widget: string
         name: title
@@ -374,7 +375,7 @@ collections:
       value: post
     create: true
     extension: md
-    slug: '{{slug}}'
+    slug: "{{slug}}"
     fields:
       - widget: string
         name: title
