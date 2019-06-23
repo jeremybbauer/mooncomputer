@@ -3,6 +3,11 @@ backend:
   branch: master
 media_folder: static/images
 public_folder: /images
+media_library:
+  name: cloudinary
+  config:
+    cloud_name: mooncomputer
+    api_key: 948553626385244
 publish_mode: editorial_workflow
 collections:
   - name: config
