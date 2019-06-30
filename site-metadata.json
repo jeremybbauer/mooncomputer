@@ -4,7 +4,7 @@
   "palette": "black",
   "header": {
     "title": "Moon Computer",
-    "logo_img": "/images/moon-computer-pixel-grass-6.png",
+    "logo_img": "https://res.cloudinary.com/mooncomputer/image/upload/v1506706072/moon_computer-pixel-grass-6_ackn09.png",
     "has_nav": true
   },
   "footer": {
