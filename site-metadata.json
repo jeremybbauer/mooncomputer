@@ -1,5 +1,5 @@
 {
-  "title": "Stackbit Ampersand Theme",
+  "title": "Moon Computer",
   "layout_style": "grid",
   "palette": "black",
   "header": {
@@ -11,7 +11,7 @@
     "content": "&copy; Moon Computer. All rights reserved.",
     "links": [
       {
-        "text": " ✨ Created my Jeremy Bauer.",
+        "text": " ✨ Created with 👽 & 🔥 by Jeremy Bauer.",
         "url": "https://jeremybauer.carrd.co/",
         "new_window": true
       }
