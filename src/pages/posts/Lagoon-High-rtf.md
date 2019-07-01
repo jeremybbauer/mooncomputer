@@ -2,7 +2,7 @@
 title: Lagoon High.rtf
 date: '2019-06-05T02:31:18.841Z'
 thumb_img_path: >-
-  https://res.cloudinary.com/mooncomputer/image/upload/c_scale,q_auto:best,w_1200/v1561923293/Moon%20Computer%20Blog/RTF/Lagoon%20High/Lagoon-High--jon-tyson-520850-unsplash--glitched.jpg
+  https://res.cloudinary.com/mooncomputer/image/upload/c_scale,h_300,q_auto:best/v1561923293/Moon%20Computer%20Blog/RTF/Lagoon%20High/Lagoon-High--jon-tyson-520850-unsplash--glitched.jpg
 excerpt: >-
   Principal Kelly didn’t know what to do about the mutant lagoon that used to be
   the school pool. And he didn’t know what to do about the…
