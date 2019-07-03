@@ -9,6 +9,8 @@ excerpt: >-
   by time, and what he’d imagined his own kids lives may be like someday.
 template: post
 ---
+![](https://res.cloudinary.com/mooncomputer/image/upload/c_scale,h_800,q_auto:best/v1562120061/Moon%20Computer%20Blog/RTF/Lagoon%20High/lagoon-high-2--david-lundgren-EbwXvzIeUUk-unsplash--glitched.jpg)
+
 “So, Mr. Kelly, I’m afraid I can’t work this job no more. It’s a safety issue. But I’m only gonna charge you for the chemicals and just a little of the labor so far, but not all of it. I’m sorry I couldn’t help more.”
 
 “You’re sorry? Jesus Christ. Well, what the hell am I supposed to do, guy? Now I got this damn, uh, infected pool or what the hell ever, costing me my best janitors and now also costing me…Give that here. Shit. Also costing me $603.11 with nothing to god damn show for it.”
