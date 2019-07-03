@@ -1,5 +1,5 @@
 ---
-title: WHAAAAT…Chill Monsters 8.mnstr
+title: WHAAAAT…Chill Monsters 9.mnstr
 date: 2019-06-26T01:12:42.649Z
 thumb_img_path: >-
   https://res.cloudinary.com/mooncomputer/image/upload/c_scale,h_300,q_auto:best/v1561923137/Moon%20Computer%20Blog/MNSTR/WHAAAAT%20Chill%20Monsters/whaaaat-chill-monsters-8--jairph-cv7dOD8tua4-unsplash--glitched-2.jpg
