@@ -1,6 +1,12 @@
 ---
 title: Lagoon High 2.rtf
 date: 2019-07-03T01:57:33.107Z
+thumb_img_path: >-
+  https://res.cloudinary.com/mooncomputer/image/upload/c_scale,h_300,q_auto:best/v1562120061/Moon%20Computer%20Blog/RTF/Lagoon%20High/lagoon-high-2--david-lundgren-EbwXvzIeUUk-unsplash--glitched.jpg
+excerpt: >-
+  He looked at the kids milling around. His mind became a casserole of the
+  carefree memories of his own childhood, some real some painted much brighter
+  by time, and what he’d imagined his own kids lives may be like someday.
 template: post
 ---
 “So, Mr. Kelly, I’m afraid I can’t work this job no more. It’s a safety issue. But I’m only gonna charge you for the chemicals and just a little of the labor so far, but not all of it. I’m sorry I couldn’t help more.”
