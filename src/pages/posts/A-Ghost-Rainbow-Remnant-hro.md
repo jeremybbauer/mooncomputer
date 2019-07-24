@@ -1,13 +1,14 @@
 ---
-title: A-Ghost-Rainbow-Remnant.hro
+title: A Ghost Rainbow Remnant.hro
 date: '2019-01-23T03:10:54.132Z'
-thumb_img_path: images/A-Ghost-Rainbow-Remnant-hro/1*Ekh3_ft2PqEsb10fEPuWvw.jpeg
+thumb_img_path: >-
+  https://res.cloudinary.com/mooncomputer/image/upload/c_scale,e_auto_brightness,h_300,q_auto:best/v1561924161/Moon%20Computer%20Blog/HRO/a-ghost-rainbow-remnant--tiko-giorgadze-263490-unsplash--glitched.jpg
 excerpt: >-
   The trailers on the hill are still burning. Muscle threads feel, in some
   movements, like they’re all going the wrong way from both overuse…
 template: post
 ---
-![](/images/A-Ghost-Rainbow-Remnant-hro/1*Ekh3_ft2PqEsb10fEPuWvw.jpeg)
+![glitched young woman kneeling by bushes](https://res.cloudinary.com/mooncomputer/image/upload/c_scale,e_auto_brightness,h_800,q_auto:best/v1561924161/Moon%20Computer%20Blog/HRO/a-ghost-rainbow-remnant--tiko-giorgadze-263490-unsplash--glitched.jpg "A Ghost Rainbow Remnant")
 
 The trailers on the hill are still burning. Muscle threads feel, in some movements, like they’re all going the wrong way from both overuse and inexperienced use.
 
