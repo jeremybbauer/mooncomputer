@@ -1,19 +1,20 @@
 ---
-title: 'Abyszantine-First,-Smoothies-After.hro'
+title: 'Abyszantine First, Smoothies After.hro'
 date: '2019-03-20T01:11:49.628Z'
-thumb_img_path: images/Abyszantine-First--Smoothies-After-hro/1*25FjFaaP2cWxcQvSvMxAWg.jpeg
+thumb_img_path: >-
+  https://res.cloudinary.com/mooncomputer/image/upload/c_scale,e_auto_brightness,h_300,q_auto:best/v1561923947/Moon%20Computer%20Blog/HRO/abyszantive-first--arnaud-mesureur-292067-unsplash--glitched.jpg
 excerpt: >-
   He finds them on the roof and reconstitutes himself from the churn of night,
   what’s made pocked by starlight and distant illuminated…
 template: post
 ---
-![](/images/Abyszantine-First--Smoothies-After-hro/1*25FjFaaP2cWxcQvSvMxAWg.jpeg)
+![glitched view two girls under exit sign](https://res.cloudinary.com/mooncomputer/image/upload/c_scale,e_auto_brightness,h_800,q_auto:best/v1561923947/Moon%20Computer%20Blog/HRO/abyszantive-first--arnaud-mesureur-292067-unsplash--glitched.jpg "Abyszantine First, Smoothies After")
 
 The night is made pocked by starlight and distant illuminated windows. He finds them on the roof and reconstitutes himself from a billowing gloom.
 
 “I am darkness incarnate! I am a force of which you cannot fully comprehend--“
 
-“Uh, I think not comprehending is more of a *you* thing and less of an *us* thing.”
+“Uh, I think not comprehending is more of a _you_ thing and less of an _us_ thing.”
 
 “Yeah, Christ, have you ever talked to another person before? Speak clearly. And don’t tell me you can’t turn off that weird ominous echoey thing you’re doing if you’re so powerful.”
 
@@ -63,7 +64,7 @@ And, in a rush dusky air and shadow, he’s gone.
 
 “Right?”
 
-“And *do. you. know*, that is like the third person we’ve convinced to get into the self-care service industry. We’re, like, really helping people.”
+“And _do. you. know_, that is like the third person we’ve convinced to get into the self-care service industry. We’re, like, really helping people.”
 
 “I know! We really are. It’s a shame we had to kill that one guy last week, though.”
 
