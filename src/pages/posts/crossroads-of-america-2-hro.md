@@ -10,7 +10,7 @@ excerpt: >-
   into it too.
 template: post
 ---
-
+![glitched room with TV](https://res.cloudinary.com/mooncomputer/image/upload/c_scale,h_800,q_auto:best/v1563935047/Moon%20Computer%20Blog/HRO/Crossroads%20of%20America/crossroads-of-america-2--sebastien-le-derout-eMBahQSKmYs-unsplash--glitched-3.jpg "Crossroads of America 2")
 
 The horses on the TV swim across something black and flat. Something that swallowed their legs to glide them in ripples away from danger, but deeper into it too. At some point they’re supposed to have meaty stilt legs and curved rocks for feet again. A part of me thinks they never will. This is their lives now, gliding through a black expanse, adapted through immersion. 
 
@@ -48,7 +48,7 @@ I can feel Di dialing in on me. I don’t know why it makes me so uncomfortable 
 
 “I’m not tryin’ to put you down or nothin’. I know things are hard. But you look like a person who’s stuck. Like a fly in one of those glue tape things they hang from the ceiling. You’re just kind of wriggling here. Just like, _bzzzz_…_bzzzz_…Just in place. But you not really in a glue trap, Ed. You can leave.”
 
-“Oh. I—you want me to leave?”
+“Oh. I--you want me to leave?”
 
 “No, you’re fine. But actually I am takin’ off soon to trade cars with Shelby. But I  mean you can leave this town whenever you want. You got some good stuff in you. It’s only wasted if you’re not happy with what you’re doing or where you are, and you are not happy.”
 
