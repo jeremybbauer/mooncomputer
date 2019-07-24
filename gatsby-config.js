@@ -27,8 +27,9 @@ module.exports = {
         {
             resolve: `gatsby-remark-page-creator`,
             options: {
-                
+
             }
+
         },
         {
             resolve: `@stackbit/gatsby-plugin-menus`,
@@ -37,6 +38,8 @@ module.exports = {
                 pageContextProperty: `menus`,
                 menus: require('./src/data/menus.json'),
             }
-        }
-    ]
+        },
+        `gatsby-plugin-sharp`,
+        `gatsby-transformer-sharp`,
+    ],
 };
