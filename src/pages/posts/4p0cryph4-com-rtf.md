@@ -1,15 +1,14 @@
 ---
 title: 4p0cryph4.com.rtf
 date: '2017-10-31T18:21:39.792Z'
-thumb_img_path: images/4p0cryph4-com-rtf/1*8mdw2hc1vh-tY4Uy5FqWNA.png
+thumb_img_path: >-
+  https://res.cloudinary.com/mooncomputer/image/upload/v1561927783/Moon%20Computer%20Blog/RTF/4p0cryph4/4p0cryph4-1.png
 excerpt: >-
   The only way to defeat these demons is to become one. Don’t worry. This is the
   fun part…
 template: post
 ---
-![](/images/4p0cryph4-com-rtf/1*8mdw2hc1vh-tY4Uy5FqWNA.png)
-
-
+![two people in black jumpsuits holding glass pane](https://res.cloudinary.com/mooncomputer/image/upload/v1561927783/Moon%20Computer%20Blog/RTF/4p0cryph4/4p0cryph4-1.png "4p0cryph4.com")
 
 Y_ou check your spam folder. There’s mostly politics and penises. Some expired Groupons. One appears to be a newsletter you never signed up for. The sender field reads: “arch-dark@4p0cryph4.com.” The subject line:_
 
