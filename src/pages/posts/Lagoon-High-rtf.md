@@ -1,13 +1,14 @@
 ---
 title: Lagoon High.rtf
 date: '2019-06-05T02:31:18.841Z'
-thumb_img_path: images/Lagoon-High-rtf/1*jqi1DT4p4NLhUr8qfLMpIQ.jpeg
+thumb_img_path: >-
+  https://res.cloudinary.com/mooncomputer/image/upload/c_scale,q_auto:best,w_1200/v1561923293/Moon%20Computer%20Blog/RTF/Lagoon%20High/Lagoon-High--jon-tyson-520850-unsplash--glitched.jpg
 excerpt: >-
   Principal Kelly didn’t know what to do about the mutant lagoon that used to be
   the school pool. And he didn’t know what to do about the…
 template: post
 ---
-![](/images/Lagoon-High-rtf/1*jqi1DT4p4NLhUr8qfLMpIQ.jpeg)
+![glitched hopscotch path](https://res.cloudinary.com/mooncomputer/image/upload/c_scale,h_1200,q_auto:best/v1561923293/Moon%20Computer%20Blog/RTF/Lagoon%20High/Lagoon-High--jon-tyson-520850-unsplash--glitched.jpg "Lagoon High")
 
 Principal Kelly didn’t know what to do about the mutant lagoon that used to be the school pool. And he didn’t know what to do about the kid who called him a white prick, Brendan Kerschl, or about calling the kid a white prick back. He was sure he shouldn’t have said that. He was telling himself to remember it and look for a time to show leniency. The problem was, there was no telling which kid would be a prick when and they were all trying to figure out how to press his buttons all the time, and some of them had shit home lives so you don’t want them to have shit school lives too, but shit, most kids’ school lives are shit. Damn standardized testing makes it worse every year and so do the god damn budgets being ripped to shit, taking away all the fun stuff like glee club and that larp thing and fucking French class. Shit.
 

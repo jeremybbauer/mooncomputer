@@ -1,9 +1,7 @@
 ---
 title: Home
 sections:
-  - actions:
-      - label: Learn More
-        url: about.html
+  - actions: []
     component: Intro
     content: >-
       A computer in the middle of the woods. You feel the glow under your skin.

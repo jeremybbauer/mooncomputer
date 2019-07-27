@@ -1,15 +1,14 @@
 ---
 title: 4p0cryph4.com.rtf
 date: '2017-10-31T18:21:39.792Z'
-thumb_img_path: images/4p0cryph4-com-rtf/1*8mdw2hc1vh-tY4Uy5FqWNA.png
+thumb_img_path: >-
+  https://res.cloudinary.com/mooncomputer/image/upload/v1561927783/Moon%20Computer%20Blog/RTF/4p0cryph4/4p0cryph4-1.png
 excerpt: >-
   The only way to defeat these demons is to become one. Don’t worry. This is the
   fun part…
 template: post
 ---
-![](/images/4p0cryph4-com-rtf/1*8mdw2hc1vh-tY4Uy5FqWNA.png)
-
-
+![two people in black jumpsuits holding glass pane](https://res.cloudinary.com/mooncomputer/image/upload/v1561927783/Moon%20Computer%20Blog/RTF/4p0cryph4/4p0cryph4-1.png "4p0cryph4.com")
 
 Y_ou check your spam folder. There’s mostly politics and penises. Some expired Groupons. One appears to be a newsletter you never signed up for. The sender field reads: “arch-dark@4p0cryph4.com.” The subject line:_
 
@@ -41,7 +40,7 @@ _You click the blue, jagged-font hyperlink, the underline running below all four
 
 - - -
 
-![](/images/4p0cryph4-com-rtf/1*BPMe6H7Uo3s-JCsndwUnHA.png)
+![retro icon of an eye](https://res.cloudinary.com/mooncomputer/image/upload/v1561927785/Moon%20Computer%20Blog/RTF/4p0cryph4/4p0cryph4-photonic.png "Photonic Icon")
 
 #### Photonic
 
@@ -49,7 +48,7 @@ Yes, hologram danger. But think laser (of course). Think duality — wave and pa
 
 **Note**: Combine with crystals and lenses for focus, or spread as an ambient flicker. Consider a burning glitter, razor gleams. Your greatest advantage: the spectrums.
 
-![](/images/4p0cryph4-com-rtf/1*qmUAbtbiEY17yzK1e8IxwQ.png)
+![retro icon of fish with legs](https://res.cloudinary.com/mooncomputer/image/upload/v1561927784/Moon%20Computer%20Blog/RTF/4p0cryph4/4p0cryph4-antler.png "The Antler Icon")
 
 #### The Antler
 
@@ -61,7 +60,7 @@ The Antler is life in fast-motion—a YouTube video of a fox decomposing in seco
 
 To put it simply: imagine a deer. Then center on the blacks of its eyes. Expand. Keep the antlers crowned above. Keep expanding until all that is around you is the blackness of spaces haloed by growth and bone, and you will find yourself emitting that pale green light of nature’s endless denticles along with a desire to fill all that blackness with something new.
 
-![](/images/4p0cryph4-com-rtf/1*BA89vvwy3nRpc6kVIA_gqA.png)
+![retro icon of planet-like orb](https://res.cloudinary.com/mooncomputer/image/upload/v1561927784/Moon%20Computer%20Blog/RTF/4p0cryph4/4p0cryph4-galactic.png "Galactic Icon")
 
 #### Galactic
 
@@ -71,7 +70,7 @@ Remember: an unfolding. Not transforming.
 
 Utility: Your eyes flow with bright blue plasma, your fingers streak dark matter flecked with white and blue across your bathroom wall, accelerating the expansion of your shower walls, spiraling toothpaste onto brush, and rippling the medicine-cabinet mirrors. Magnetic storms pixel out of your body, ruining the greatest LAN party of 1999. The auroras of your feet spike and simmer along your path of dark energy, the path of the awesome speckled nebula of what you’ve become.
 
-![](/images/4p0cryph4-com-rtf/1*_uBGlL_R8_SDVeSDYrr8Zg.png)
+![retro icon of man's face in darkness](https://res.cloudinary.com/mooncomputer/image/upload/v1561927784/Moon%20Computer%20Blog/RTF/4p0cryph4/4p0cryph4-dank.png "The Dank Icon")
 
 #### The Dank
 
@@ -109,7 +108,7 @@ Look for us in the field. Look for stray glint, bug-mutts, space gone local, or 
 
 This has been your _Beginning Guide to Demon_.
 
-![](/images/4p0cryph4-com-rtf/1*nnNqkgrGkk4D1icdMDY4EA.png)
+![retro icon of wizard with lizard tale conjuring fish from smoke](https://res.cloudinary.com/mooncomputer/image/upload/v1561927784/Moon%20Computer%20Blog/RTF/4p0cryph4/4p0cryph4-end.png "4p0cryph4.com End")
 
 - - -
 
