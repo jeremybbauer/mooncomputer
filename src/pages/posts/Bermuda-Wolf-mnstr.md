@@ -1,26 +1,25 @@
 ---
-title: Bermuda-Wolf.mnstr
+title: Bermuda Wolf.mnstr
 date: '2018-01-31T03:43:59.025Z'
-thumb_img_path: images/Bermuda-Wolf-mnstr/1*bO8qQZ_QRVbQO46QjF2Bog.jpeg
+thumb_img_path: >-
+  https://res.cloudinary.com/mooncomputer/image/upload/c_scale,e_brightness:25,h_300,q_auto:best/v1561926360/Moon%20Computer%20Blog/MNSTR/bermuda-wolf-glitched.jpg
 excerpt: >-
   It is unknown when or how Clint Fortean, the Bermuda Wolf, contracted his
   lycanthropic condition. Though Fortean has been described as…
 template: post
 ---
-<iframe src="https://play.ht/embed/?article_url=https://medium.com/_p/bermuda-wolf-mnstr-50cbc216d97c" width="700" height="185" frameborder="0" scrolling="no"></iframe>
+![werewolf with pocket of space where his face should be](https://res.cloudinary.com/mooncomputer/image/upload/e_brightness:25,q_auto:best/v1561926360/Moon%20Computer%20Blog/MNSTR/bermuda-wolf-glitched.jpg "Bermuda Wolf")
 
-![](/images/Bermuda-Wolf-mnstr/1*bO8qQZ_QRVbQO46QjF2Bog.jpeg)
-
-**Name**: Clint Fortean  
-**Date of Birth**: 02/10/1958  
-**Nationality**: American  
-**Height**: 6’2”  
-**Weight**: 220 lbs.  
-**Hair color**: Brown   
-**Eye color**: Hazel  
-**Relatives**: Martha Fortean (mother, deceased), Father unknown   
-**Children**: None  
-**Languages**: English, Spanish, Icelandic   
+**Name**: Clint Fortean\
+**Date of Birth**: 02/10/1958\
+**Nationality**: American\
+**Height**: 6’2”\
+**Weight**: 220 lbs.\
+**Hair color**: Brown \
+**Eye color**: Hazel\
+**Relatives**: Martha Fortean (mother, deceased), Father unknown \
+**Children**: None\
+**Languages**: English, Spanish, Icelandic \
 **Current residence**: Unknown (variable)
 
 It is unknown when or how Clint Fortean, the Bermuda Wolf, contracted his lycanthropic condition. Though Fortean has been described as a kind, yet somewhat despondent man by the majority of his former neighbors and community members, DNA evidence has linked Fortean to five separate murders across the Midwestern United States. Each victim was a white male between the ages of 25 and 40 with a history of assault and domestic abuse. It is unknown whether these murders were premeditated or crimes of passion, though forensic evidence suggests the latter.
@@ -44,7 +43,7 @@ Though we are no closer to apprehending Fortean, we have obtained a full report 
 Mínervudóttir agreed to turn over an answering machine message that Fortean left on January 10, 1994 to authorities. This message was the last contact Fortean had with Mínervudóttir:
 
 > Used to be, I felt awful all the time. About myself, mostly. Sometimes something would come over me, and…I couldn’t help myself. I’d do stuff I regret. I would get real low about it sometimes. Dolly and Patsy and Loretta helped me through it, they’re good angels, but I didn’t know what to do with myself. Then something changed. Something happened, like an accident or something and…I’d still get that impulsive feeling come over me but I didn’t do stuff I regret. I couldn’t. Sometimes I still tried to, but I just wasn’t able to anymore. Something would stop me. At first I thought it was great. I thought I was free kinda. But then I…I just felt…I don’t know. Like I couldn’t do nothing at all. Some weird feeling of failure stuck to me that I can’t shake. I didn’t like who I was before, but what am I now? What purpose could I have? It’s like I can’t do nothing in this world to give myself even an ounce, a tiny bit of control over my own life. I can’t step to someone without ending up somewhere else. I’ve just been clipped. And I still ain’t been to Bermuda.  
->   
+>
 > Anyway, I picked up the bananas and herring. Be home around four, Al.
 
 Fortean is still at large, and we seem to be unable to apprehend him, or even track his movements. He is to be considered dangerous and should not be approached without backup.
