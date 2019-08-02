@@ -5,6 +5,4 @@ thumb_img_path: >-
   https://res.cloudinary.com/mooncomputer/image/upload/c_scale,e_auto_brightness,h_300,q_auto:best/v1561926042/Moon%20Computer%20Blog/MOON/bigfoot-central--animal-bigfoot-evolution-4075--glitched--150x100.png
 template: post
 ---
-![glitched bigfoot walking through forest](https://res.cloudinary.com/mooncomputer/image/upload/c_scale,e_auto_brightness,h_800,q_auto:best/v1561926042/Moon%20Computer%20Blog/MOON/bigfoot-central--animal-bigfoot-evolution-4075--glitched--150x100.png "Bigfoot Central")
-
-https://glitch.com/~bigfoot-central
+![](/images/Bigfoot-Central-moon/1*laYduwQanC6sxGD8QIghnw.jpeg)
