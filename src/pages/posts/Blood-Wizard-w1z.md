@@ -1,15 +1,18 @@
 ---
-title: Blood-Wizard.w1z
+title: Blood Wizard.w1z
 date: '2018-03-07T04:21:56.233Z'
-thumb_img_path: images/Blood-Wizard-w1z/1*udxhhk4icxtgrv9f7yw2wA.jpeg
-excerpt: From the records of Tad Grabell
+thumb_img_path: >-
+  https://res.cloudinary.com/mooncomputer/image/upload/c_scale,h_300,q_auto:best/v1561926200/Moon%20Computer%20Blog/W1Z/blood-wizard--chuttersnap-297550-unsplash-glitched.jpg
+excerpt: >-
+  I first realized I was a blood wizard when I skinned my knee doing donuts in
+  the trailer court on a 10-speed. When you’re a kid, you’re more likely to
+  think something amazing is happening than you’re going crazy. Especially when
+  the best thing going for you is fantasy.
 template: post
 ---
-![](/images/Blood-Wizard-w1z/1*udxhhk4icxtgrv9f7yw2wA.jpeg)
+![glitched red liquid flowing downwards](https://res.cloudinary.com/mooncomputer/image/upload/c_scale,h_800,q_auto:best/v1561926200/Moon%20Computer%20Blog/W1Z/blood-wizard--chuttersnap-297550-unsplash-glitched.jpg "Blood Wizard")
 
-<iframe src="https://play.ht/embed/?article_url=https://medium.com/_p/blood-wizard-w1z-c61bf05f5443" width="700" height="185" frameborder="0" scrolling="no"></iframe>
-
-*From the records of Tad Grabell*
+_From the records of Tad Grabell_
 
 I first realized I was a blood wizard when I skinned my knee doing donuts in the trailer court on a 10-speed. When you’re a kid, you’re more likely to think something amazing is happening than you’re going crazy. Especially when the best thing going for you is fantasy.
 
