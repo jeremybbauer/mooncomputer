@@ -1,17 +1,16 @@
 ---
 title: >-
-  Computational-Crystallomancy — Waylon-Graylight’s-Magic-Stuff-&-Whatever-the-Fuck-12.w1z
+  Computational Crystallomancy — Waylon Graylight’s Magic Stuff & Whatever the
+  Fuck 12.w1z
 date: '2018-10-24T04:01:05.740Z'
 thumb_img_path: >-
-  images/Computational-Crystallomancy---Waylon-Graylight-s-Magic-Stuff---Whatever-the-Fuck-12-w1z/1*iq5yzQY2136jdGeMMYjz5Q.jpeg
+  https://res.cloudinary.com/mooncomputer/image/upload/c_scale,e_brightness:35,h_300,q_auto:best/v1561924813/Moon%20Computer%20Blog/W1Z/Waylon%20Graylight/computational-crystallomancy-2--airport-business-cabinets-236093--glitched.jpg
 excerpt: >-
   Though we were relatively slow to adopt computers in our work and home lives,
   the occult and eldritch communities have been just as awash…
 template: post
 ---
-![](/images/Computational-Crystallomancy---Waylon-Graylight-s-Magic-Stuff---Whatever-the-Fuck-12-w1z/1*iq5yzQY2136jdGeMMYjz5Q.jpeg)
-
-<iframe src="https://play.ht/embed/?article_url=https://medium.com/_p/computational-crystallomancy-waylon-graylights-magic-stuff-whatever-the-fuck-12-w1z-83941baa3d73" width="700" height="185" frameborder="0" scrolling="no"></iframe>
+![glitched row of data servers](https://res.cloudinary.com/mooncomputer/image/upload/c_scale,e_brightness:35,h_800,q_auto:best/v1561924813/Moon%20Computer%20Blog/W1Z/Waylon%20Graylight/computational-crystallomancy-2--airport-business-cabinets-236093--glitched.jpg "Waylon Graylight Computational Crystallomancy")
 
 Though we were relatively slow to adopt computers in our work and home lives, the occult and eldritch communities have been just as awash in the dial-up-screeching tide of the computing age as the rest of the world. There was resistance at first, but that’s what new generations are for, the brave that dares to say, “why the fuck not?”
 
