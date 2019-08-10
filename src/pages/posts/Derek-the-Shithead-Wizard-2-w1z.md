@@ -1,5 +1,5 @@
 ---
-title: Derek-the-Shithead-Wizard-2.w1z
+title: Derek the Shithead Wizard 2.w1z
 date: '2017-12-13T03:49:41.962Z'
 thumb_img_path: images/Derek-the-Shithead-Wizard-2-w1z/1*TWVzp4zbk19lWabCSmSRGw.jpeg
 excerpt: >-
