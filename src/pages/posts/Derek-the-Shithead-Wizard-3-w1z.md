@@ -1,5 +1,5 @@
 ---
-title: Derek-the-Shithead-Wizard-3.w1z
+title: Derek the-Shithead-Wizard-3.w1z
 date: '2018-02-21T03:57:06.809Z'
 thumb_img_path: images/Derek-the-Shithead-Wizard-3-w1z/1*q2lv3ltrErd-_zYxO0hDrg.gif
 excerpt: >-
@@ -8,8 +8,6 @@ excerpt: >-
 template: post
 ---
 ![](/images/Derek-the-Shithead-Wizard-3-w1z/1*q2lv3ltrErd-_zYxO0hDrg.gif)
-
-<iframe src="https://play.ht/embed/?article_url=https://medium.com/_p/derek-the-shithead-wizard-3-w1z-9525ed4123e3" width="700" height="185" frameborder="0" scrolling="no"></iframe>
 
 Derek said if he had it his way, I wouldn’t be able to vote. I said that was a useless thing say because I can vote and nobody gives a shit what he would do if he was ruining the world. I also told him that him talking was worse air pollution than farts or bird flu.
 
