@@ -1,21 +1,20 @@
 ---
-title: Derek-the-Shithead-Wizard-4.w1z
+title: Derek the Shithead Wizard 4.w1z
 date: '2018-03-14T02:39:28.355Z'
-thumb_img_path: images/Derek-the-Shithead-Wizard-4-w1z/1*Ed0pPF7JpG9ZHCRfdM3XEg.jpeg
+thumb_img_path: >-
+  https://res.cloudinary.com/mooncomputer/image/upload/c_scale,e_auto_saturation,h_300,q_auto:best/v1561926180/Moon%20Computer%20Blog/W1Z/Mandy%20Mage/Derek%20Shithead%20Wizard/derek-wizard-4--aziz-acharki-290990-unsplash--glitched.jpg
 excerpt: >-
   The day of battle was boss. My training in the woods was hard, shitty hard,
   but I’d honed everything I could. I was feeling like a…
 template: post
 ---
-![](/images/Derek-the-Shithead-Wizard-4-w1z/1*Ed0pPF7JpG9ZHCRfdM3XEg.jpeg)
-
-<iframe src="https://play.ht/embed/?article_url=https://medium.com/_p/derek-the-shithead-wizard-4-w1z-37435c3b064" width="700" height="185" frameborder="0" scrolling="no"></iframe>
+![glitched man sitting in field passing air between hands](https://res.cloudinary.com/mooncomputer/image/upload/c_scale,e_auto_saturation,h_800,q_auto:best/v1561926180/Moon%20Computer%20Blog/W1Z/Mandy%20Mage/Derek%20Shithead%20Wizard/derek-wizard-4--aziz-acharki-290990-unsplash--glitched.jpg "Derek the Shithead Wizard 4")
 
 The day of battle was boss. My training in the woods was hard, shitty hard, but I’d honed everything I could. I was feeling like a flamethrower in a butter factory.
 
 Like I was going to melt this motherfucker down.
 
-I sent an evite to the battle to Janice and said sorry for writing “chode” in barbecue sauce on her sliding glass door. Normally I’d try to remind her that she sucked for standing me up, but that’s not zen, so I held it in. I am the tall ass tree and when the wind blows I only but sway. I sent evites to all of Derek’s friends, Randy, Gary, and everyone Derek’s ever cared about. I sent Derek a computer curse that put a permanent flaming middle finger on pile of skulls on his screen. I mixed in a laser charm so it etched itself on his bedroom wall too.
+I sent an evite to the battle to Janice and said sorry for writing “chode” in barbecue sauce on her sliding glass door. Normally I’d try to remind her that she sucked for standing me up, but that’s not zen, so I held it in. I am the tall ass tree and when the wind blows I only but sway. I sent e-vites to all of Derek’s friends, Randy, Gary, and everyone Derek’s ever cared about. I sent Derek a computer curse that put a permanent flaming middle finger on pile of skulls on his screen. I mixed in a laser charm so it etched itself on his bedroom wall too.
 
 I waited for Derek in the pasture south of Oochi’s Pizza (I put up some nuh-uh wards on Oochi’s to keep that brilliant bastard safe). I waited and was the tree. People gathered and I was the tree.
 
@@ -31,7 +30,7 @@ My levitations and slime forms are choice. I hovered up high over the bolt and s
 
 I did the hand signs for Sappho’s Total Darkness that turned the pasture to night. I heard a weird squeal and fired off Hepburn’s Moggy. Golden teeth of light streaked through the darkness. There was a loud hiss and then a yell from Derek as the teeth tossed him into the air. He’s fucking toast, I thought.
 
-I heard a couple of thuds and then a red light started glowing near the sounds and I started running. The light got brighter and brighter, and right before I reached it, there was this loud “BOOMPH.” A flash of an wipe-away spell. I was on my ass.
+I heard a couple of thuds and then a red light started glowing near the sounds and I started running. The light got brighter and brighter, and right before I reached it, there was this loud “BOOMPH.” A flash of a wipe-away spell. I was on my ass.
 
 I WASN’T THE TREE, I thought. No, wait. I wasn’t the tree…but I am the tree. Me and my space zen would turn me into the glitter-spark nova I knew I was.
 
