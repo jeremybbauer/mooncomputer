@@ -1,5 +1,5 @@
 ---
-title: ERROR...REBOOT
+title: ERROR DETECTED...REBOOTING
 date: 2019-12-09T03:30:14.290Z
 thumb_img_path: >-
   https://res.cloudinary.com/mooncomputer/image/upload/e_sharpen:100/v1575862275/Moon%20Computer%20Blog/moon-computer-error-message-2.gif
