@@ -1,6 +1,6 @@
 ---
 title: Waylon Graylight's Introduction to Occult Computing 8.w1z
-date: 2019-12-31T01:04:06.290Z
+date: 2020-01-01T01:04:06.290Z
 thumb_img_path: >-
   https://res.cloudinary.com/mooncomputer/image/upload/c_scale,e_sharpen:100,h_300,q_auto:best/v1577754005/Moon%20Computer%20Blog/W1Z/Waylon%20Graylight/waylon-gralight-occult-compute-8--alessio-lin-nTcKzJ9XrmI-unsplash--glitched.jpg
 excerpt: >-
