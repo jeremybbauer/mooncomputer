@@ -1,13 +1,15 @@
 ---
-title: Diary-of-Hunter-Green-16.rtf
+title: Diary of Hunter Green 16.rtf
 date: '2017-11-22T02:09:30.170Z'
-thumb_img_path: images/Diary-of-Hunter-Green-16-rtf/1*0XzOFlto7u07O7YJbi3AhQ.png
-excerpt: Dear Diary
+thumb_img_path: >-
+  https://res.cloudinary.com/mooncomputer/image/upload/c_scale,e_auto_color,h_300,q_auto:best/v1577831694/Moon%20Computer%20Blog/RTF/Hunter%20Green/diary-hunter-green-16--asa-rodger-nezHaCwch2w-unsplash--glitched.jpg
+excerpt: >-
+  Ooooh, man. Rory taught me this phrase yesterday. I texted him about this guy
+  who yelled at me for stepping on his coffee and he said I shoulda told the
+  guy...
 template: post
 ---
-![](/images/Diary-of-Hunter-Green-16-rtf/1*0XzOFlto7u07O7YJbi3AhQ.png)
-
-<iframe src="https://play.ht/embed/?article_url=https://medium.com/_p/diary-of-hunter-green-16-rtf-f8bb19be7080" width="700" height="185" frameborder="0" scrolling="no"></iframe>
+![monkey on a rock shouting](https://res.cloudinary.com/mooncomputer/image/upload/c_scale,e_auto_color,h_800,q_auto:best/v1577831694/Moon%20Computer%20Blog/RTF/Hunter%20Green/diary-hunter-green-16--asa-rodger-nezHaCwch2w-unsplash--glitched.jpg "Diary of Hunter Green 16")
 
 Dear Diary,
 
@@ -17,6 +19,6 @@ Bye, Diary.
 
 P.S. I found a rap lyric in a notebook from 5th grade today. It goes, “I’m smokin’ so much pot, you’ll think your kitchen’s been robbed.” I’m glad I stopped rapping.
 
-* * *
+- - -
 
-*Image courtesy of* [*Eliot Gardepe*](https://egardepe.itch.io/hypercard)*.*
+*Image courtesy of* *[Eliot Gardepe](https://egardepe.itch.io/hypercard).*
