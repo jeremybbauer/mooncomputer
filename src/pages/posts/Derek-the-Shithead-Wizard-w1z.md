@@ -5,7 +5,7 @@ thumb_img_path: >-
   https://res.cloudinary.com/mooncomputer/image/upload/c_scale,e_sharpen:100,h_300,q_auto:best/v1577830625/Moon%20Computer%20Blog/W1Z/Mandy%20Mage/Derek%20Shithead%20Wizard/derek-the-shithead-wizard-1--emma-simpson-wtPjydxH28s-unsplash--glitched-3.jpg
 excerpt: >-
   I think I’m going to try to get my grandma to call him the c-word in front of
-  everyone
+  everyone.
 template: post
 ---
 ![glitched view of a girl riding a skateboard down a graffitied alley](https://res.cloudinary.com/mooncomputer/image/upload/c_scale,e_sharpen:100,h_800,q_auto:best/v1577830625/Moon%20Computer%20Blog/W1Z/Mandy%20Mage/Derek%20Shithead%20Wizard/derek-the-shithead-wizard-1--emma-simpson-wtPjydxH28s-unsplash--glitched-3.jpg "Derek the Shithead Wizard 1")
