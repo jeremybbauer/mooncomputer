@@ -21,4 +21,4 @@ I don’t tell nobody about this stuff, though. I still gotta eat no matter what
 
 Lots of folks would like to see Jesus. Just once. I know Mom would. The Tuttle Twins over near Birdseye. Guess I might could have some questions myself. 
 
-Supposed to be a hot one tomorrow, so I guess we’ll see what we see.
+Supposed to be a hot one tomorrow. So, I guess we’ll see what we see.
