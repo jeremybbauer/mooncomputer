@@ -3,6 +3,10 @@ title: Dream Factory.rtf
 date: 2020-02-12T02:01:36.093Z
 thumb_img_path: >-
   https://res.cloudinary.com/mooncomputer/image/upload/c_scale,e_sharpen:100,h_300,q_auto:best/v1581472962/Moon%20Computer%20Blog/RTF/dream-factory--christopher-burns-8KfCR12oeUM-unsplash--glitched.jpg
+excerpt: >-
+  Once it looked like the convey’r belt was melting. Another time I thought my
+  arms and soul were made of light and no one coulda told me differ’nt. And
+  then...
 template: post
 ---
 ![glitched view of factory worker's hands with shower of sparks](https://res.cloudinary.com/mooncomputer/image/upload/c_scale,e_sharpen:100,h_800,q_auto:best/v1581472962/Moon%20Computer%20Blog/RTF/dream-factory--christopher-burns-8KfCR12oeUM-unsplash--glitched.jpg "Dream Factory")
