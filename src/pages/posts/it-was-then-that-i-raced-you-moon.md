@@ -39,7 +39,7 @@ template: post
 
 “Within themselves, each of them has the potential to be a force of great benevolence or great horror. That is the foundation of free will.”
 
-“Is it though? I think you could have them must be nice and still do what they want.”
+“Is it, though? I think they could just be nice and still do what they want.”
 
 “No. Well, maybe. I don’t know. I wrote that directive a long time ago. Before I had to take away all the cool stuff because wouldn’t stop teleporting each other into suns or breaking planets apart. Anything more than okay intelligence, and pfft. It’s a shitshow. Do people still say shitshow?”
 
