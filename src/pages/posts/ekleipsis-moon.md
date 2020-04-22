@@ -22,4 +22,4 @@ template: post
 
 “No. I thought she spoke to me, but she didn’t. It’s hard to explain.”
 
-“Well. I think we need to find this woman, Laura. Out of 126 people, you and this woman, presumably, were the only ones that survived whatever happened there. Now, she could’ve had something to do with it, or she’s an innocent bystander. Like you. Either way, she needs our help. Will you help us? Help us find her?”
+“Well. I think we need to find this woman. Out of 126 people, you and this woman, presumably, were the only ones that survived whatever happened there. Now, she could’ve had something to do with it, or she’s an innocent bystander. Like you. Either way, she needs our help. Will you help us, Laura? Help us find her?”
