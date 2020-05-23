@@ -1,0 +1,4 @@
+---
+title: .MNSTR
+template: page
+---
