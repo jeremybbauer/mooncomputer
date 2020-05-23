@@ -1,15 +1,12 @@
 ---
-title: Glow-Indiana.hro
-date: '2018-02-28T03:47:47.854Z'
-thumb_img_path: images/Glow-Indiana-hro/1*_W-vg994x7Fb9SoTp4lSjQ.jpeg
-excerpt: >-
-  The boy ain’t been the same since he learned he could bend rain. It took form
-  ‘round him like a blanket, or some kind of cloud, the night…
+title: Glow, Indiana.hro
+date: 2018-02-28T03:47:47.854Z
+thumb_img_path: https://res.cloudinary.com/mooncomputer/image/upload/c_scale,e_auto_saturation,h_300,q_auto:best/v1561926221/Moon%20Computer%20Blog/HRO/glow-indiana--jonatan-pie-183185-unsplash--glitched.jpg
+excerpt: The boy ain’t been the same since he learned he could bend rain. It
+  took form ‘round him like a blanket, or some kind of cloud, the night…
 template: post
 ---
-![](/images/Glow-Indiana-hro/1*_W-vg994x7Fb9SoTp4lSjQ.jpeg)
-
-<iframe src="https://play.ht/embed/?article_url=https://medium.com/_p/glow-indiana-hro-2c89716caee" width="700" height="185" frameborder="0" scrolling="no"></iframe>
+![glitched cabin at night in winter with a green aurora glowing above](https://res.cloudinary.com/mooncomputer/image/upload/c_scale,e_auto_saturation,h_800,q_auto:best/v1561926221/Moon%20Computer%20Blog/HRO/glow-indiana--jonatan-pie-183185-unsplash--glitched.jpg "Glow, Indiana")
 
 The boy ain’t been the same since he learned he could bend rain. It took form ‘round him like a blanket, or some kind of cloud, the night he came in from a storm dry as a casserole. He started takin’ science lessons shortly after, up at the college some couple hours away. I guess he wanted to see what else his faculties were capable of. Wasn’t long ‘fore he decided he oughta move out of me and his mom’s place. He’d seemed content to stay there, cook at the Oochi’s Pizza, but after a few days at those lessons he told us he “needed to find something,” and got an apartment in that college’s town.
 
