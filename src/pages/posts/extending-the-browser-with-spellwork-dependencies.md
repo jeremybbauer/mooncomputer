@@ -1,5 +1,5 @@
 ---
-title: Extending the Browser with Spellwork Dependencies
+title: Extending the Browser with Spellwork Dependencies.w1z
 subtitle: by Rashad Talley for Cunning Code
 date: 2020-05-28T02:59:37.767Z
 thumb_img_path: https://res.cloudinary.com/mooncomputer/image/upload/c_scale,e_sharpen:100,h_300,q_auto:best/v1590634950/Moon%20Computer%20Blog/W1Z/browser-spellwork--jr-korpa-3-RYRQREfKg-unsplash--glitched.jpg
