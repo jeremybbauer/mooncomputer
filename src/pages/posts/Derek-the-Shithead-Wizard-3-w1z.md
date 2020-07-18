@@ -1,13 +1,12 @@
 ---
 title: Derek the Shithead Wizard 3.w1z
-date: '2018-02-21T03:57:06.809Z'
-thumb_img_path: images/Derek-the-Shithead-Wizard-3-w1z/1*q2lv3ltrErd-_zYxO0hDrg.gif
-excerpt: >-
-  Derek said if he had it his way, I wouldn’t be able to vote. I said that was a
-  useless thing say because I can vote and nobody gives a shit…
+date: 2018-02-21T03:57:06.809Z
+thumb_img_path: https://res.cloudinary.com/mooncomputer/image/upload/c_scale,e_sharpen:100,h_300,q_auto:best/v1561926289/Moon%20Computer%20Blog/W1Z/Mandy%20Mage/Derek%20Shithead%20Wizard/derek-wizard-3--jason-briscoe-149781-unsplash--glitched.png
+excerpt: Derek said if he had it his way, I wouldn’t be able to vote. I said
+  that was a useless thing say because I can vote and nobody gives a shit…
 template: post
 ---
-![](/images/Derek-the-Shithead-Wizard-3-w1z/1*q2lv3ltrErd-_zYxO0hDrg.gif)
+![glitched outline of a girl doing a high kick](https://res.cloudinary.com/mooncomputer/image/upload/c_scale,e_sharpen:100,h_800,q_auto:best/v1561926289/Moon%20Computer%20Blog/W1Z/Mandy%20Mage/Derek%20Shithead%20Wizard/derek-wizard-3--jason-briscoe-149781-unsplash--glitched.png "Derek the Shithead Wizard 3")
 
 Derek said if he had it his way, I wouldn’t be able to vote. I said that was a useless thing say because I can vote and nobody gives a shit what he would do if he was ruining the world. I also told him that him talking was worse air pollution than farts or bird flu.
 
