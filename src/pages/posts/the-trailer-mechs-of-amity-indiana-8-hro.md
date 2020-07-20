@@ -49,4 +49,4 @@ I laughed, then he laughed, then I tried to stop because I felt like I was rippi
 
 “They really call me a hero?”
 
-“Sure did, pal. And when you’re up to it, they can’t wait to see ya.”
+“Sure did. And when you’re up to it, they can’t wait to see ya.”
