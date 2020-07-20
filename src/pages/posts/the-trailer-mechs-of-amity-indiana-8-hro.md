@@ -9,7 +9,7 @@ template: post
 ---
 ![glitched bed with pillows and a line of sunlight on it](https://res.cloudinary.com/mooncomputer/image/upload/c_scale,e_sharpen:100,h_800,q_auto:best/v1595284273/Moon%20Computer%20Blog/HRO/Trailer%20Mechs/trailer-mechs-8-glitched.jpg "The Trailer Mechs of Amity, Indiana 8")
 
-I wasn’t sure where I was waking up. It was bright and hard to see at first. After covering my eyes for a few seconds, I could see I was looking at a window where the sun aligned just right to burn my eyes out. The window had thin, pale pink curtains on the sides that looked weathered but cherished. I saw the wood paneling on the wall, and knew I was in the room dad had made up in his trailer for remembering Mom. 
+I wasn’t sure where I was waking up. It was bright and hard to see at first. After covering my eyes for a few seconds, I could tell I was looking at a window where the sun aligned just right to burn my eyes out. The window had thin, pale pink curtains on the sides that looked weathered but cherished. I saw the wood paneling on the wall, and knew I was in the room dad had made up in his trailer for remembering Mom. 
 
 “Chief! You’re up! Welcome back to the world.” The room never had a bed, so Dad must’ve brought his in for me. He shot up from a chair to the left of the bed, beaming like hell. 
 
