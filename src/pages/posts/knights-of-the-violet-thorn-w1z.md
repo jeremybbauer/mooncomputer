@@ -2,6 +2,10 @@
 title: Knights of the Violet Thorn.w1z
 date: 2020-08-03T22:11:40.725Z
 thumb_img_path: https://res.cloudinary.com/mooncomputer/image/upload/c_scale,e_auto_saturation,h_300,q_auto:best/v1596492266/Moon%20Computer%20Blog/W1Z/Knights%20of%20the%20Violet%20Thorn/knights-of-the-violet-thorn--glitched.jpg
+excerpt: “Okay, I hereby bring to order this meeting of the Knights of the
+  Violet Thorn. First point of business, Wendy brought lemon bars.”  “With
+  lavender!”  “Ooo, with lavender. Thank you, Wendy. Everyone, help yourselves
+  to a lemon bar."
 template: post
 ---
 ![glitched wood-paneled dining room with a long table and gothic chairs](https://res.cloudinary.com/mooncomputer/image/upload/c_scale,e_auto_saturation,h_800,q_auto:best/v1596492266/Moon%20Computer%20Blog/W1Z/Knights%20of%20the%20Violet%20Thorn/knights-of-the-violet-thorn--glitched.jpg "Knights of the Violet Thorn")
