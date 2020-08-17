@@ -1,5 +1,5 @@
 ---
-title: "Funland: Where the Fun Never Ends"
+title: "Funland: Where the Fun Never Ends.moon"
 date: 2020-08-10T21:43:28.383Z
 thumb_img_path: https://res.cloudinary.com/mooncomputer/image/upload/c_scale,e_auto_saturation,h_300,q_auto:best/v1597095501/Moon%20Computer%20Blog/RTF/funland-glitched-2.jpg
 excerpt: The amusement park was way more fun after it closed down. You could
