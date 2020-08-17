@@ -10,7 +10,7 @@ template: post
 ---
 ![glitched arcade with games](https://res.cloudinary.com/mooncomputer/image/upload/c_scale,e_sharpen:100,h_800,q_auto:best/v1597702685/Moon%20Computer%20Blog/RTF/Funland/funland-2--glitched.jpg "Funland 2")
 
-The door was stuck, but Lacey’s a tank. She threw the now empty peppermint schnapps bottle she’d swiped from her brother, who swiped it from their parents, at the wooden clown sign that told kids whether they were too short for the rides. The way a few of the glass shards stuck in the clown’s face felt like justice. 
+The door was stuck, but Lacey’s a tank. She threw the then empty peppermint schnapps bottle she’d swiped from her brother, who swiped it from their parents, at the wooden clown sign that told kids whether they were too short for the rides. The way a few of the glass shards stuck in the clown’s face felt like justice. 
 
 “Sweet,” said Lacey, smiling at the clown. She crouched with her hands on the ground like a football player getting ready for the snap. She stared at the door. Her eyes looked hungry. I was pretty buzzed, so I was trying to hold in a giggle fit. She stared for kind of a while before tearing off like a rhino towards the door. Then, *bam*! Lacey hit the door hard and bounced off onto her back. “Fucking ow,” she said.
 
