@@ -27,4 +27,4 @@ I put my fingers behind the arcade cabinet in front of me and tried to slide the
 
 We both chuckled as I moved out of Lacey’s way. Sometimes she looks like a beautiful giant that could throw a car at the moon. She’s only, like, three inches taller than me, but I think she can transform those extra inches into pure muscle. 
 
-Lacey put one hand on each side of the cabinet. She let out a good bear grunt, then pulled it out a foot and over into a 45-degree angle in one smooth, tough motion. Before I could say *damn*, we both screamed, "Shit!" as a flash of white shot past us and out the cracked door.
+Lacey put one hand on each side of the cabinet. She let out a good bear grunt, then pulled it out a foot and over into a 45-degree angle in a single smooth, tough motion. Before I could say *damn*, we both screamed, "Shit!" as a flash of white shot past us and out the cracked door.
