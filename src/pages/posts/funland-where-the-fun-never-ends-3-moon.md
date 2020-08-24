@@ -23,7 +23,7 @@ I put my fingers behind the arcade cabinet in front of me and tried to slide the
 
 “T’would be my pleasure, milady. You need but to ask and your royal mammoth is at your service.” 
 
-“Brilliant, mi-mammoth milady. Uh...Indubitably!”
+“Brilliant, mi-mammoth milady. Uh…Indubitably!”
 
 We both chuckled as I moved out of Lacey’s way. Sometimes she looks like a beautiful giant that could throw a car at the moon. She’s only, like, three inches taller than me, but I think she can transform those extra inches into pure muscle. 
 
