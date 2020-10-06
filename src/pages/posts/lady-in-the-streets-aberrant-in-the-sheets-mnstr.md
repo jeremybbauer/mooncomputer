@@ -3,7 +3,7 @@ title: Lady in the Streets, Aberrant in the Sheets.mnstr
 date: 2020-10-05T23:16:57.577Z
 thumb_img_path: https://res.cloudinary.com/mooncomputer/image/upload/c_scale,e_auto_saturation,h_300,q_auto:best/v1601939869/Moon%20Computer%20Blog/MNSTR/lady-in-the-streets-aberrant-in-the-sheets--glitched.jpg
 excerpt: That’s not fair. Not all accountants are boring, just like not all
-  froyo shop staff have an infernal convenant granting them inhuman energy and
+  froyo shop staff have an infernal covenant granting them inhuman energy and
   power for each cascading hoard of toppings they judge with caustic silence.
 template: post
 ---
