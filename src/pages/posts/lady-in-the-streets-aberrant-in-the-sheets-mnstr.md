@@ -9,7 +9,7 @@ template: post
 ---
 ![glitched 3d printer printing](https://res.cloudinary.com/mooncomputer/image/upload/c_scale,e_auto_saturation,h_800,q_auto:best/v1601939869/Moon%20Computer%20Blog/MNSTR/lady-in-the-streets-aberrant-in-the-sheets--glitched.jpg "Lady in the Streets, Aberrant in the Sheets")
 
-Even for an accountant, Eleanor was boring. That’s not fair. Not all accountants are boring, just like not all froyo shop staff have an infernal convenant granting them inhuman energy and power for each cascading hoard of toppings they judge with caustic silence. Eleanor was boring because accounting was also the only thing she ever talked about. 
+Even for an accountant, Eleanor was boring. That’s not fair. Not all accountants are boring, just like not all froyo shop staff have an infernal covenant granting them inhuman energy and power for each cascading hoard of toppings they judge with caustic silence. Eleanor was boring because accounting was also the only thing she ever talked about. 
 
 She wasn’t always this way. When we met in the ninth grade, Eleanor had other interests. Sneaking into the community pool at night, Hole (the band), cute boys with empty personalities, and horses in a big, almost frightening way. Just before twelfth grade, her family moved a few hours away. It was a dick move and rude affront to both of our senior years. 
 
