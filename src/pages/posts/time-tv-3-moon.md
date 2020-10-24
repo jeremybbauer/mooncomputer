@@ -2,6 +2,8 @@
 title: Time TV 3.moon
 date: 2020-10-24T15:34:22.012Z
 thumb_img_path: https://res.cloudinary.com/mooncomputer/image/upload/c_scale,e_auto_saturation,h_300,q_auto:best/v1603553857/Moon%20Computer%20Blog/RTF/Time%20TV/time-tv-3--glitched.jpg
+excerpt: “They became as unpredictable as the weather. Right?”  “Um. No, not
+  exactly. We can predict the weather pretty well. That’s…forecasts, sir.”
 template: post
 ---
 ![glitched TV in a forest](https://res.cloudinary.com/mooncomputer/image/upload/c_scale,e_auto_saturation,h_800,q_auto:best/v1603553857/Moon%20Computer%20Blog/RTF/Time%20TV/time-tv-3--glitched.jpg "Time TV 3")
