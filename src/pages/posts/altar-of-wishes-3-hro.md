@@ -13,4 +13,4 @@ template: post
 
 The shapes of the voice were nearing the surface of the blur. Jesse could see the form move as it spoke, and fought the instinct to turn his face towards it. His silent fight against his own base responses was the most crucial, as surprise is fleeting. Jesse could feel the light from whatever stars were overhead seep back into him, a familiar almost pins-and-needles feeling that meant his energies were returning. He hoped that meant Angel’s were returning too.
 
-“I guess no matter how simple, a wish may always be open to interpretation. “
+“I guess no matter how simple, a wish may always be open to interpretation.“
