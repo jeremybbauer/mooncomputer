@@ -7,7 +7,7 @@ excerpt: '"I thought that keeping it simple, focused, would eliminate any margin
   seemed straightforward.”'
 template: post
 ---
-![glitched multicolored lights with dark background](https://res.cloudinary.com/mooncomputer/image/upload/c_scale,e_auto_saturation,h_800,q_auto:best/v1611102920/Moon%20Computer%20Blog/HRO/Nuclear%20Man/altar-of-wishes-3--glitched.jpg "Alter of Wishes 3")
+![glitched multicolored lights with dark background](https://res.cloudinary.com/mooncomputer/image/upload/c_scale,e_auto_saturation,h_800,q_auto:best/v1611102920/Moon%20Computer%20Blog/HRO/Nuclear%20Man/altar-of-wishes-3--glitched.jpg "Altar of Wishes 3")
 
 “You may have inferred from my tone that my wish had a different effect than I’d intended. I thought that keeping it simple, focused, would eliminate any margin of error. So, I wished to be the most powerful being in the universe. It seemed straightforward.” 
 
